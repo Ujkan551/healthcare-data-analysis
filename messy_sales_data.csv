@@ -1,0 +1,37 @@
+Order_ID,Customer Name,Email,Phone,Order Date,Product,Quantity,Unit Price,Total,Region,Status
+1001,John Smith,john.smith@email.com,555-0123,2024-01-15,Laptop,1,899.99,899.99,North,Completed
+1002,SARAH JOHNSON,sarah@email.com,5550124,15/01/2024,Mouse,2,25.50,51.00,south,completed
+1003,Mike Davis,mike.davis@email,555-0125,2024-01-16,Keyboard,1,79.99,79.99,East,Shipped
+1004,Emily Brown,emily.brown@email.com,,01/17/2024,Monitor,2,299.99,599.98,West,Completed
+1005,Robert Wilson,robert@email.com,555-0127,2024-01-18,Laptop,1,899.99,899.99,North,
+1006,,,555-0128,2024-01-19,Headphones,3,49.99,149.97,South,Cancelled
+1007,Lisa Anderson,lisa.anderson@email.com,555-0129,2024-01-20,Mouse,5,25.50,127.50,EAST,Completed
+1008,David Martinez,david.m@email.com,555-0130,2024/01/21,USB Cable,-2,12.99,-25.98,West,Completed
+1009,Jennifer Lee,jennifer.lee@email.com,555-0131,2024-01-22,Laptop,1,899.99,899.99,north,Shipped
+1010,James Taylor,james@email.com,555-0132,2024-01-23,Monitor,1,299.99,299.99,South,completed
+1011,Mary Thomas,mary.thomas@email.com,5550133,24-01-2024,Keyboard,2,79.99,159.98,East,Completed
+1012,John Smith,john.smith@email.com,555-0123,2024-01-15,Laptop,1,899.99,899.99,North,Completed
+1013,Patricia White,patricia@email.com,,2024-01-25,Headphones,1,49.99,49.99,West,Shipped
+1014,Michael Harris,michael.harris@email.com,555-0135,2024-01-26,Mouse,100,25.50,2550.00,North,Completed
+1015,Linda Martin,linda.martin@email.com,555-0136,2024-01-27,,2,12.99,25.98,South,Completed
+1016,William Thompson,william@email,555-0137,2024-01-28,Laptop,0,899.99,0.00,east,Cancelled
+1017,Barbara Garcia,barbara.garcia@email.com,555-0138,2024-01-29,Monitor,2,299.99,599.98,West,Completed
+1018,Richard Martinez,richard@email.com,555-0139,2024-01-30,Keyboard,1,79.99,79.99,,Shipped
+1019,Susan Rodriguez,susan.rodriguez@email.com,555-0140,2024-01-31,Headphones,3,49.99,149.97,North,Completed
+1020,Joseph Lopez,joseph.lopez@email.com,,2024-02-01,Mouse,2,25.50,51.00,South,completed
+1021,Jessica Gonzalez,jessica@email.com,555-0142,2024-02-02,USB Cable,5,12.99,64.95,East,Completed
+1022,Thomas Wilson,thomas.wilson@email.com,555-0143,02/03/2024,Laptop,1,899.99,899.99,West,Shipped
+1023,Nancy Anderson,nancy.anderson@email.com,555-0144,2024-02-04,Monitor,1,299.99,300.00,North,Completed
+1024,Charles Taylor,charles@email.com,5550145,2024-02-05,Keyboard,2,79.99,159.98,south,Completed
+1025,Karen Moore,karen.moore@email.com,555-0146,2024-02-06,Headphones,1,49.99,49.99,East,pending
+1026,Daniel Jackson,daniel.jackson@email.com,555-0147,2024-02-07,Mouse,3,25.50,76.50,West,Completed
+1027,Betty Martin,betty@email,555-0148,2024-02-08,USB Cable,10,12.99,129.90,North,Shipped
+1028,Matthew Lee,matthew.lee@email.com,,2024-02-09,Laptop,1,899.99,899.99,South,Completed
+1029,Dorothy Perez,dorothy.perez@email.com,555-0150,2024-02-10,Monitor,2,299.99,599.98,EAST,completed
+1030,Donald White,donald@email.com,555-0151,2024-02-11,Keyboard,1,79.99,79.99,West,Completed
+,Anthony Harris,anthony.harris@email.com,555-0152,2024-02-12,Headphones,2,49.99,99.98,North,Shipped
+1032,Sandra Clark,sandra.clark@email.com,555-0153,2024-02-13,Mouse,1,25.50,25.50,south,Cancelled
+1033,Kevin Lewis,kevin@email.com,,2024-02-14,USB Cable,7,12.99,90.93,East,Completed
+1034,Ashley Robinson,ashley.robinson@email.com,555-0155,2024-02-15,Laptop,1,899.99,899.99,West,Completed
+1035,Steven Walker,steven.walker@email.com,555-0156,15/02/2024,Monitor,3,299.99,899.97,North,Shipped
+1036,Donna Young,donna@email.com,555-0157,2024-02-17,Keyboard,1,79.99,79.99,South,Completed
